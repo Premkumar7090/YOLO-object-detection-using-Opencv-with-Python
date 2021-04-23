@@ -1,3 +1,4 @@
+![Screenshot (8)](https://user-images.githubusercontent.com/70314729/115907107-0a481080-a486-11eb-9a0b-e757d9761f09.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/70314729/115905569-e7b4f800-a483-11eb-8787-63d1390a10b1.png)
 # YOLO-object-detection-using-Opencv-with-Python
 
